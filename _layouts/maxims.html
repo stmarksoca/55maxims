@@ -1,0 +1,7 @@
+---
+layout: main
+---
+
+{% for maxim in site.data["en"] %}
+    {% include maxim.html num=forloop.index text=maxim %}
+{% endfor %}

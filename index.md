@@ -1,10 +1,6 @@
 ---
-layout: main
+layout: maxims
 title: 55 Maxims of Christian living
 father: Fr. Thomas Hopko
 bio_url: https://www.svots.edu/profile/protopresbyter-thomas-hopko
 ---
-
-{% for maxim in site.data.maxims["en"] %}
-    {% include maxim.html num=forloop.index text=maxim %}
-{% endfor %}

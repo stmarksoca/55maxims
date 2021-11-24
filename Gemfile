@@ -1,4 +1,6 @@
-ruby '3.0.0'
+source "https://rubygems.org"
 
-gem 'jekyll', '4.2.0'
+ruby '3.0.2'
+
+gem 'jekyll', '4.2.1'
 gem 'webrick'

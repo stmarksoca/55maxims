@@ -6,7 +6,7 @@ A tiny application powered by [Jekyll](https://jekyllrb.com) and driven by data 
 ## Prerequisites
 
 - Linux, macOS, or Windows
-- Ruby 3.0.2
+- Ruby 3.0.3
 - Gem
 - Bundler
 
